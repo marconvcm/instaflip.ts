@@ -1,0 +1,1010 @@
+[
+  {
+    "name": "card 1",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-c292EUDtSvMfXux.png",
+    "north": 4,
+    "east": 0,
+    "south": 2,
+    "west": 8
+  },
+  {
+    "name": "card 2",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-k14XVzbWydcXB0X.png",
+    "north": 5,
+    "east": 4,
+    "south": 8,
+    "west": 5
+  },
+  {
+    "name": "card 3",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-YQU7GqvJAZqgX2J.png",
+    "north": 4,
+    "east": 2,
+    "south": 9,
+    "west": 0
+  },
+  {
+    "name": "card 4",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-sc7slWktEhBW0Q4.png",
+    "north": 2,
+    "east": 1,
+    "south": 4,
+    "west": 9
+  },
+  {
+    "name": "card 5",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-SPNRjRIN4izQ2nJ.png",
+    "north": 8,
+    "east": 6,
+    "south": 10,
+    "west": 2
+  },
+  {
+    "name": "card 6",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-PWal8JkdL4JHFuz.png",
+    "north": 10,
+    "east": 3,
+    "south": 3,
+    "west": 4
+  },
+  {
+    "name": "card 7",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-sa4Z8kOSnzwEzES.png",
+    "north": 5,
+    "east": 4,
+    "south": 10,
+    "west": 6
+  },
+  {
+    "name": "card 8",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-m2izdutefBHXUEu.png",
+    "north": 0,
+    "east": 1,
+    "south": 10,
+    "west": 8
+  },
+  {
+    "name": "card 9",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-vGhGJEfKcJ44bA2.png",
+    "north": 3,
+    "east": 5,
+    "south": 1,
+    "west": 6
+  },
+  {
+    "name": "card 10",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-0ja7laLgEmhKnju.png",
+    "north": 3,
+    "east": 5,
+    "south": 3,
+    "west": 10
+  },
+  {
+    "name": "card 11",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-S5H3qtMPPonoBFO.png",
+    "north": 9,
+    "east": 0,
+    "south": 10,
+    "west": 0
+  },
+  {
+    "name": "card 12",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-qyIOTjonwCWOOQb.png",
+    "north": 3,
+    "east": 3,
+    "south": 1,
+    "west": 6
+  },
+  {
+    "name": "card 13",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-fY4ksTwmj3n9f1Q.png",
+    "north": 0,
+    "east": 2,
+    "south": 5,
+    "west": 8
+  },
+  {
+    "name": "card 14",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-YGI8EqB8PdEjic3.png",
+    "north": 6,
+    "east": 0,
+    "south": 3,
+    "west": 8
+  },
+  {
+    "name": "card 15",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-KgsCakqU3xjo2QR.png",
+    "north": 9,
+    "east": 6,
+    "south": 4,
+    "west": 2
+  },
+  {
+    "name": "card 16",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-AGcHAzPerxNKcdf.png",
+    "north": 4,
+    "east": 3,
+    "south": 0,
+    "west": 5
+  },
+  {
+    "name": "card 17",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-jXs57hF8tw754vJ.png",
+    "north": 1,
+    "east": 7,
+    "south": 7,
+    "west": 8
+  },
+  {
+    "name": "card 18",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-KOAVZo2TjTokgkk.png",
+    "north": 3,
+    "east": 4,
+    "south": 6,
+    "west": 7
+  },
+  {
+    "name": "card 19",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-x4n7DCk21J9Atny.png",
+    "north": 7,
+    "east": 5,
+    "south": 4,
+    "west": 5
+  },
+  {
+    "name": "card 20",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-ZaXOGjmdNeTV1gQ.png",
+    "north": 8,
+    "east": 4,
+    "south": 2,
+    "west": 9
+  },
+  {
+    "name": "card 21",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-lzxoDCYbEnKY5Ut.png",
+    "north": 8,
+    "east": 3,
+    "south": 7,
+    "west": 0
+  },
+  {
+    "name": "card 22",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-G6ZNxWXM36X86nz.png",
+    "north": 7,
+    "east": 7,
+    "south": 2,
+    "west": 8
+  },
+  {
+    "name": "card 23",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-n3gWhlV8kBpsdRg.png",
+    "north": 2,
+    "east": 2,
+    "south": 7,
+    "west": 3
+  },
+  {
+    "name": "card 24",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-sha9MMkfKDmxL1D.png",
+    "north": 1,
+    "east": 7,
+    "south": 0,
+    "west": 5
+  },
+  {
+    "name": "card 25",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-wQVXmmIsa7fxfw7.png",
+    "north": 10,
+    "east": 9,
+    "south": 9,
+    "west": 5
+  },
+  {
+    "name": "card 26",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-6wsrzJEueY8KwQ3.png",
+    "north": 9,
+    "east": 1,
+    "south": 8,
+    "west": 8
+  },
+  {
+    "name": "card 27",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-6qT8ULD4UDM9Zk4.png",
+    "north": 8,
+    "east": 6,
+    "south": 1,
+    "west": 2
+  },
+  {
+    "name": "card 28",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-s8NdAt3eCJ5CppW.png",
+    "north": 1,
+    "east": 1,
+    "south": 5,
+    "west": 2
+  },
+  {
+    "name": "card 29",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-YFcdZoOUM38asjF.png",
+    "north": 6,
+    "east": 5,
+    "south": 3,
+    "west": 9
+  },
+  {
+    "name": "card 30",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-kIETznQdN2r6qpu.png",
+    "north": 8,
+    "east": 5,
+    "south": 3,
+    "west": 1
+  },
+  {
+    "name": "card 31",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-v8FEOlxDHPcqKGB.png",
+    "north": 5,
+    "east": 2,
+    "south": 4,
+    "west": 3
+  },
+  {
+    "name": "card 32",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-8SlkbYOGJNIuBce.png",
+    "north": 1,
+    "east": 0,
+    "south": 5,
+    "west": 3
+  },
+  {
+    "name": "card 33",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-Xgxl0Uxt1Hqm9oY.png",
+    "north": 3,
+    "east": 8,
+    "south": 3,
+    "west": 4
+  },
+  {
+    "name": "card 34",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-hfu293FdxWpQ0Wo.png",
+    "north": 2,
+    "east": 8,
+    "south": 5,
+    "west": 7
+  },
+  {
+    "name": "card 35",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-xB2WM5nWKKvGrhU.png",
+    "north": 4,
+    "east": 3,
+    "south": 7,
+    "west": 6
+  },
+  {
+    "name": "card 36",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-T1pwntj4exKAczB.png",
+    "north": 3,
+    "east": 3,
+    "south": 8,
+    "west": 0
+  },
+  {
+    "name": "card 37",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-0dh6T9BejJJc69e.png",
+    "north": 7,
+    "east": 10,
+    "south": 3,
+    "west": 5
+  },
+  {
+    "name": "card 38",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-TTX5c0Svv3msdg5.png",
+    "north": 10,
+    "east": 10,
+    "south": 10,
+    "west": 5
+  },
+  {
+    "name": "card 39",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-MpEswwXyP4MW4lG.png",
+    "north": 5,
+    "east": 1,
+    "south": 10,
+    "west": 3
+  },
+  {
+    "name": "card 40",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-KAbpE7inY5qz4sa.png",
+    "north": 3,
+    "east": 8,
+    "south": 2,
+    "west": 1
+  },
+  {
+    "name": "card 41",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-d3SA19PoGwuoLGX.png",
+    "north": 3,
+    "east": 8,
+    "south": 5,
+    "west": 3
+  },
+  {
+    "name": "card 42",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-DxnDBVvTgWo932X.png",
+    "north": 10,
+    "east": 4,
+    "south": 4,
+    "west": 9
+  },
+  {
+    "name": "card 43",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-JCiRh8GtltRuRId.png",
+    "north": 8,
+    "east": 3,
+    "south": 0,
+    "west": 1
+  },
+  {
+    "name": "card 44",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-wzVV6UpIGJ0MitY.png",
+    "north": 1,
+    "east": 8,
+    "south": 7,
+    "west": 2
+  },
+  {
+    "name": "card 45",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-rXrA0SAl87Oy3B7.png",
+    "north": 4,
+    "east": 0,
+    "south": 4,
+    "west": 6
+  },
+  {
+    "name": "card 46",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-Liul1owiAFnG8pC.png",
+    "north": 1,
+    "east": 0,
+    "south": 3,
+    "west": 10
+  },
+  {
+    "name": "card 47",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-XCb14Gp7gNeSECm.png",
+    "north": 6,
+    "east": 2,
+    "south": 10,
+    "west": 1
+  },
+  {
+    "name": "card 48",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-KJUHn6ROZd8oq2W.png",
+    "north": 5,
+    "east": 1,
+    "south": 1,
+    "west": 5
+  },
+  {
+    "name": "card 49",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-1tYvYC7vdLs0I4p.png",
+    "north": 10,
+    "east": 6,
+    "south": 9,
+    "west": 1
+  },
+  {
+    "name": "card 50",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-CAbbfCSJLkSgVbW.png",
+    "north": 4,
+    "east": 10,
+    "south": 0,
+    "west": 5
+  },
+  {
+    "name": "card 51",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-FgAj0Fz4Gmvnqm0.png",
+    "north": 2,
+    "east": 6,
+    "south": 5,
+    "west": 5
+  },
+  {
+    "name": "card 52",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-migPkGHSxqRiQ2v.png",
+    "north": 8,
+    "east": 9,
+    "south": 3,
+    "west": 10
+  },
+  {
+    "name": "card 53",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-ykIUyuJEiyimctx.png",
+    "north": 5,
+    "east": 10,
+    "south": 2,
+    "west": 3
+  },
+  {
+    "name": "card 54",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-mDYxMGn6W7rZxj7.png",
+    "north": 2,
+    "east": 2,
+    "south": 3,
+    "west": 1
+  },
+  {
+    "name": "card 55",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-UpXsFxJNBm8nBAB.png",
+    "north": 10,
+    "east": 5,
+    "south": 8,
+    "west": 6
+  },
+  {
+    "name": "card 56",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-Zlte8EohGlq0IW4.png",
+    "north": 8,
+    "east": 0,
+    "south": 10,
+    "west": 10
+  },
+  {
+    "name": "card 57",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-YbvNsIazxcAFBPF.png",
+    "north": 0,
+    "east": 1,
+    "south": 9,
+    "west": 8
+  },
+  {
+    "name": "card 58",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-65wBJgeeIJYkJJ0.png",
+    "north": 6,
+    "east": 2,
+    "south": 0,
+    "west": 1
+  },
+  {
+    "name": "card 59",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-RM4UgusKczK8jQH.png",
+    "north": 3,
+    "east": 0,
+    "south": 4,
+    "west": 4
+  },
+  {
+    "name": "card 60",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-0uEcXFe83ivkOf9.png",
+    "north": 6,
+    "east": 1,
+    "south": 9,
+    "west": 3
+  },
+  {
+    "name": "card 61",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-qBBeW49b9jgPbzT.png",
+    "north": 6,
+    "east": 0,
+    "south": 2,
+    "west": 4
+  },
+  {
+    "name": "card 62",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-ysTJQbg0RuSBlxa.png",
+    "north": 9,
+    "east": 1,
+    "south": 3,
+    "west": 4
+  },
+  {
+    "name": "card 63",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-jy3oSdPxG2OMfmp.png",
+    "north": 2,
+    "east": 4,
+    "south": 1,
+    "west": 9
+  },
+  {
+    "name": "card 64",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-ZQMYdUPuprrW2Do.png",
+    "north": 7,
+    "east": 6,
+    "south": 5,
+    "west": 2
+  },
+  {
+    "name": "card 65",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-00jCJdJvjNeGuEk.png",
+    "north": 9,
+    "east": 4,
+    "south": 5,
+    "west": 3
+  },
+  {
+    "name": "card 66",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-YnPfoWvJVqEohy2.png",
+    "north": 10,
+    "east": 4,
+    "south": 5,
+    "west": 7
+  },
+  {
+    "name": "card 67",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-WwfHqyXuBn4N6Os.png",
+    "north": 7,
+    "east": 8,
+    "south": 8,
+    "west": 5
+  },
+  {
+    "name": "card 68",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-XfQDBwzchvGIXS5.png",
+    "north": 6,
+    "east": 10,
+    "south": 5,
+    "west": 0
+  },
+  {
+    "name": "card 69",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-Fsf0v8YNsHZfgrQ.png",
+    "north": 5,
+    "east": 8,
+    "south": 6,
+    "west": 2
+  },
+  {
+    "name": "card 70",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-61XSvwo6Cynx0fg.png",
+    "north": 7,
+    "east": 0,
+    "south": 9,
+    "west": 2
+  },
+  {
+    "name": "card 71",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-CY2bsZ1ufBUtyYo.png",
+    "north": 6,
+    "east": 8,
+    "south": 4,
+    "west": 3
+  },
+  {
+    "name": "card 72",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-Us4BGjgevNkcwnl.png",
+    "north": 1,
+    "east": 2,
+    "south": 10,
+    "west": 4
+  },
+  {
+    "name": "card 73",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-OZ4PLskYfRzz8Tx.png",
+    "north": 10,
+    "east": 7,
+    "south": 1,
+    "west": 5
+  },
+  {
+    "name": "card 74",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-aAFViPxgTa2m9KL.png",
+    "north": 3,
+    "east": 6,
+    "south": 2,
+    "west": 2
+  },
+  {
+    "name": "card 75",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-a3e3YlinVC2DB6f.png",
+    "north": 4,
+    "east": 5,
+    "south": 7,
+    "west": 3
+  },
+  {
+    "name": "card 76",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-GgXyB2wSOFSG4iB.png",
+    "north": 10,
+    "east": 1,
+    "south": 4,
+    "west": 10
+  },
+  {
+    "name": "card 77",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-1Pm0oTe5jAAYkl8.png",
+    "north": 2,
+    "east": 10,
+    "south": 0,
+    "west": 4
+  },
+  {
+    "name": "card 78",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-dmyjsboSpdHP3iU.png",
+    "north": 8,
+    "east": 5,
+    "south": 8,
+    "west": 4
+  },
+  {
+    "name": "card 79",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-9hfjzQ285SLX6kp.png",
+    "north": 5,
+    "east": 7,
+    "south": 7,
+    "west": 0
+  },
+  {
+    "name": "card 80",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-Grr0LfpnDhNQr9w.png",
+    "north": 1,
+    "east": 9,
+    "south": 4,
+    "west": 6
+  },
+  {
+    "name": "card 81",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-kca0fLtfbUrLOAs.png",
+    "north": 1,
+    "east": 10,
+    "south": 5,
+    "west": 3
+  },
+  {
+    "name": "card 82",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-N2w1Q5WRO3H6Vsp.png",
+    "north": 10,
+    "east": 8,
+    "south": 6,
+    "west": 2
+  },
+  {
+    "name": "card 83",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-Q15szmVwsatbY8q.png",
+    "north": 6,
+    "east": 4,
+    "south": 6,
+    "west": 5
+  },
+  {
+    "name": "card 84",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-zOlxuGKWUCZCPlH.png",
+    "north": 2,
+    "east": 5,
+    "south": 9,
+    "west": 10
+  },
+  {
+    "name": "card 85",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-yVU2JEjzqUBvUBr.png",
+    "north": 7,
+    "east": 4,
+    "south": 3,
+    "west": 4
+  },
+  {
+    "name": "card 86",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-TPLM6uUKJkpwgp0.png",
+    "north": 9,
+    "east": 6,
+    "south": 1,
+    "west": 8
+  },
+  {
+    "name": "card 87",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-uqQ5h512wX4LiKn.png",
+    "north": 9,
+    "east": 2,
+    "south": 3,
+    "west": 6
+  },
+  {
+    "name": "card 88",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-yiJKrERhDNJQrUt.png",
+    "north": 3,
+    "east": 2,
+    "south": 10,
+    "west": 0
+  },
+  {
+    "name": "card 89",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-LVW9sdUE7p80T6M.png",
+    "north": 6,
+    "east": 8,
+    "south": 6,
+    "west": 9
+  },
+  {
+    "name": "card 90",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-PDovgI6T3T2qphD.png",
+    "north": 3,
+    "east": 10,
+    "south": 7,
+    "west": 0
+  },
+  {
+    "name": "card 91",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-A1FKJpln3Qvmy2q.png",
+    "north": 0,
+    "east": 4,
+    "south": 5,
+    "west": 0
+  },
+  {
+    "name": "card 92",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-T4fx5vc3ouab0Kr.png",
+    "north": 7,
+    "east": 6,
+    "south": 9,
+    "west": 3
+  },
+  {
+    "name": "card 93",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-jJAsozCINcLeiik.png",
+    "north": 2,
+    "east": 5,
+    "south": 3,
+    "west": 0
+  },
+  {
+    "name": "card 94",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-0xec7zPhlYLt1TM.png",
+    "north": 3,
+    "east": 4,
+    "south": 8,
+    "west": 3
+  },
+  {
+    "name": "card 95",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-8s92ZKnhkKkXioT.png",
+    "north": 0,
+    "east": 1,
+    "south": 5,
+    "west": 7
+  },
+  {
+    "name": "card 96",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-Sr8qgUYcGinox70.png",
+    "north": 2,
+    "east": 9,
+    "south": 7,
+    "west": 6
+  },
+  {
+    "name": "card 97",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-IRjaJFZtdvjFbB8.png",
+    "north": 0,
+    "east": 7,
+    "south": 9,
+    "west": 6
+  },
+  {
+    "name": "card 98",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-HEZcTOJgPvorkGS.png",
+    "north": 6,
+    "east": 5,
+    "south": 8,
+    "west": 5
+  },
+  {
+    "name": "card 99",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-IZ8QP2M8j0vEmSc.png",
+    "north": 10,
+    "east": 4,
+    "south": 10,
+    "west": 1
+  },
+  {
+    "name": "card 100",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-dnnbEgzhY4N4fik.png",
+    "north": 0,
+    "east": 9,
+    "south": 7,
+    "west": 1
+  },
+  {
+    "name": "card 101",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-XF9TQN8CILejMs3.png",
+    "north": 2,
+    "east": 3,
+    "south": 8,
+    "west": 6
+  },
+  {
+    "name": "card 102",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-zhT1T0VuVjRFcZ9.png",
+    "north": 6,
+    "east": 9,
+    "south": 0,
+    "west": 9
+  },
+  {
+    "name": "card 103",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-yfo7S4B8IGyeTan.png",
+    "north": 10,
+    "east": 10,
+    "south": 9,
+    "west": 2
+  },
+  {
+    "name": "card 104",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-1LQpymc3olqeeNF.png",
+    "north": 3,
+    "east": 10,
+    "south": 10,
+    "west": 9
+  },
+  {
+    "name": "card 105",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-eECZtA6KCnKtkmM.png",
+    "north": 0,
+    "east": 7,
+    "south": 0,
+    "west": 6
+  },
+  {
+    "name": "card 106",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-F2Rwiabqxwo1OQi.png",
+    "north": 0,
+    "east": 10,
+    "south": 9,
+    "west": 10
+  },
+  {
+    "name": "card 107",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-SoMnsMTm4a8eAZ0.png",
+    "north": 0,
+    "east": 2,
+    "south": 1,
+    "west": 10
+  },
+  {
+    "name": "card 108",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-v44EE0yZ6X9NDw9.png",
+    "north": 8,
+    "east": 0,
+    "south": 7,
+    "west": 1
+  },
+  {
+    "name": "card 109",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-hN8p5rjitvEltVg.png",
+    "north": 0,
+    "east": 5,
+    "south": 2,
+    "west": 3
+  },
+  {
+    "name": "card 110",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-8aRcBFmtYYKPN4L.png",
+    "north": 1,
+    "east": 0,
+    "south": 7,
+    "west": 4
+  },
+  {
+    "name": "card 111",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-TkCkRwgwutskrVG.png",
+    "north": 0,
+    "east": 9,
+    "south": 0,
+    "west": 5
+  },
+  {
+    "name": "card 112",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-z92zAlK4ykSVbDv.png",
+    "north": 8,
+    "east": 5,
+    "south": 9,
+    "west": 2
+  },
+  {
+    "name": "card 113",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-hRL08RnZjk5ZcXr.png",
+    "north": 1,
+    "east": 6,
+    "south": 6,
+    "west": 7
+  },
+  {
+    "name": "card 114",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-NLWQMcYYy2OOres.png",
+    "north": 7,
+    "east": 8,
+    "south": 10,
+    "west": 2
+  },
+  {
+    "name": "card 115",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-CIirmZHsYQjeeXS.png",
+    "north": 3,
+    "east": 7,
+    "south": 1,
+    "west": 3
+  },
+  {
+    "name": "card 116",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-r5SuilKzgWrAR0N.png",
+    "north": 9,
+    "east": 3,
+    "south": 8,
+    "west": 0
+  },
+  {
+    "name": "card 117",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-9PVLKkA5VmSBpN2.png",
+    "north": 2,
+    "east": 7,
+    "south": 6,
+    "west": 1
+  },
+  {
+    "name": "card 118",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-qvjFwQBmpEipJm5.png",
+    "north": 10,
+    "east": 7,
+    "south": 2,
+    "west": 9
+  },
+  {
+    "name": "card 119",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-9RLyz8abMn0vrvU.png",
+    "north": 2,
+    "east": 0,
+    "south": 8,
+    "west": 7
+  },
+  {
+    "name": "card 120",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-3bm3cZh7cg07dJq.png",
+    "north": 9,
+    "east": 0,
+    "south": 1,
+    "west": 0
+  },
+  {
+    "name": "card 121",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-G4NChTA9eZsCDF8.png",
+    "north": 0,
+    "east": 10,
+    "south": 4,
+    "west": 4
+  },
+  {
+    "name": "card 122",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-jNjB6D27Np43UJW.png",
+    "north": 6,
+    "east": 9,
+    "south": 4,
+    "west": 6
+  },
+  {
+    "name": "card 123",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-05MA8b60bUTJILI.png",
+    "north": 2,
+    "east": 8,
+    "south": 4,
+    "west": 0
+  },
+  {
+    "name": "card 124",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-IfmW3AjbOqI9meG.png",
+    "north": 2,
+    "east": 5,
+    "south": 6,
+    "west": 9
+  },
+  {
+    "name": "card 125",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-ISO1YqXjFeLwr7u.png",
+    "north": 7,
+    "east": 7,
+    "south": 9,
+    "west": 2
+  },
+  {
+    "name": "card 126",
+    "img": "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-KgFbxccmTwQbRBo.png",
+    "north": 6,
+    "east": 2,
+    "south": 4,
+    "west": 3
+  }
+]

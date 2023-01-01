@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2050 2560" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="power" transform="matrix(1,0,0,1,634.951,-688.238)">
+        <g transform="matrix(0.577952,-0.577952,0.577952,0.577952,-460.58,1081.89)">
+            <rect x="679.866" y="961.349" width="293.169" height="293.169"/>
+        </g>
+        <g transform="matrix(0.577952,-0.577952,0.577952,0.577952,-51.565,1081.89)">
+            <rect x="679.866" y="961.349" width="293.169" height="293.169"/>
+        </g>
+        <g transform="matrix(0.577952,-0.577952,0.577952,0.577952,-258.656,1286.75)">
+            <rect x="679.866" y="961.349" width="293.169" height="293.169"/>
+        </g>
+        <g transform="matrix(0.577952,-0.577952,0.577952,0.577952,-262.419,879.623)">
+            <rect x="679.866" y="961.349" width="293.169" height="293.169"/>
+        </g>
+        <g data-orientation="west" transform="matrix(16.5261,0,0,16.5261,-12750.3,-12020.5)">
+            <text x="807.644px" y="806.947px" style="font-family:'DINAlternate-Bold', 'DIN Alternate', sans-serif;font-weight:700;font-size:12px;fill:white;">A</text>
+        </g>
+        <g data-orientation="south" transform="matrix(16.5261,0,0,16.5261,-12535.5,-11815.6)">
+            <text x="807.644px" y="806.947px" style="font-family:'DINAlternate-Bold', 'DIN Alternate', sans-serif;font-weight:700;font-size:12px;fill:white;">8</text>
+        </g>
+        <g data-orientation="north" transform="matrix(16.5261,0,0,16.5261,-12535.7,-12222.8)">
+            <text x="807.644px" y="806.947px" style="font-family:'DINAlternate-Bold', 'DIN Alternate', sans-serif;font-weight:700;font-size:12px;fill:white;">3</text>
+        </g>
+        <g data-orientation="east" transform="matrix(16.5261,0,0,16.5261,-12327.4,-12019.9)">
+            <text x="807.644px" y="806.947px" style="font-family:'DINAlternate-Bold', 'DIN Alternate', sans-serif;font-weight:700;font-size:12px;fill:white;">2</text>
+        </g>
+    </g>
+    <g id="main-frame">
+        <path id="background" d="M2050,60.881C2050,27.28 2022.72,0 1989.12,0L60.881,0C27.28,0 0,27.28 0,60.881L0,2499.12C0,2532.72 27.28,2560 60.881,2560L1989.12,2560C2022.72,2560 2050,2532.72 2050,2499.12L2050,60.881ZM1146.2,302.071L146.424,302.071L146.424,2112.07C146.424,2373.77 246.742,2414.85 449.204,2414.85L1896.97,2414.85L1896.97,152.071L1446.96,152.071C1325.19,152.071 1391.55,302.071 1146.2,302.071Z" style="fill:rgb(63,63,63);"/>
+    </g>
+    <path data-id="color-frame" d="M1994.31,105.426C1994.31,81.455 1974.85,61.993 1950.88,61.993L99.12,61.993C75.149,61.993 55.688,81.455 55.688,105.426L55.688,2454.57C55.688,2478.55 75.149,2498.01 99.12,2498.01L1950.88,2498.01C1974.85,2498.01 1994.31,2478.55 1994.31,2454.57L1994.31,105.426ZM1146.2,302.071L146.424,302.071L146.424,2112.07C146.424,2373.77 246.742,2414.85 449.204,2414.85L1896.97,2414.85L1896.97,152.071L1446.96,152.071C1325.19,152.071 1391.55,302.071 1146.2,302.071Z"/>
+</svg>
